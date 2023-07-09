@@ -1,0 +1,1 @@
+Description: Extends the functionality of a SimpleVector by adding sorting capabilities. This class template allows you to store a collection of elements and sort them in ascending order.

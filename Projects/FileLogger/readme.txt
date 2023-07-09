@@ -1,0 +1,1 @@
+Description: Scans a user specified file continously looking for any changes and outputs a message to the console if change occurs!

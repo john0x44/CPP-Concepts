@@ -1,0 +1,1 @@
+Description: searches a specified string in a file and counts the number of occurences!
